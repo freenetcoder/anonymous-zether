@@ -15,7 +15,7 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@anonymous-zether/anonymous.js@0.1.0":
+"@anonymous-zether/anonymous.js@file:packages/anonymous.js":
   version "0.1.0"
   resolved "file:packages/anonymous.js"
   dependencies:
@@ -25,7 +25,7 @@
     web3-eth-abi "^1.7.4"
     web3-utils "^1.7.4"
 
-"@anonymous-zether/protocol@0.1.0":
+"@anonymous-zether/protocol@file:packages/protocol":
   version "0.1.0"
   resolved "file:packages/protocol"
   dependencies:
