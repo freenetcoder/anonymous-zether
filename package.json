@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@anonymous-zether/anonymous.js": "workspace:*",
-    "@anonymous-zether/protocol": "workspace:*",
+    "@anonymous-zether/anonymous.js": "0.1.0",
+    "@anonymous-zether/protocol": "0.1.0",
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18", 
     "@tailwindcss/forms": "^0.5.3",
